@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Enhancing security in a blockchain ecosystem
+title: "Enhancing security in a blockchain ecosystem"
 date: 2025-08-06 12:00:00 +0800
 ---
+
 # **Introduction**
 Cryptographic techniques are a pillar of digital security today, and they have a very essential role in data security and safe communication. Cryptographic techniques such as advanced mathematical algorithms are pivotal to security provision in online banking and e-commerce, government communications, and blockchain technology. Basically, these techniques are designed to provide confidentiality, integrity, and authenticity of information. With the advancement in the types of digital attacks, cryptography as a discipline, keeping pace with new and innovative solutions to fight such attacks.
 
